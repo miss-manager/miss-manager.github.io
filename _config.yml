@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Miss-Managr
+tagline:          Unleash the real you
+url:              http://miss-managr.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Mark Otto
+  url:            https://twitter.com/mdo
+  email:          satiricallaughter@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
