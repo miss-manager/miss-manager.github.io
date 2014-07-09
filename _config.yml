@@ -18,6 +18,10 @@ author:
   url:            https://twitter.com/GertieBelcher
   email:          satiricallaughter@gmail.com
 
+#
+pages_list:       
+  Archive: '/archive'
+
 # Custom vars
 version:          1.0.0
 github:
