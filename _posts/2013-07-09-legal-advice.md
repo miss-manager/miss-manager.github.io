@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Legal Advice?
+permalink: legal-advice
 ---
 
 *Dear Gertrude,*

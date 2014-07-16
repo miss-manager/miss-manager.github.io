@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Recently Despised?
+permalink: recently-despised
 ---
 
 

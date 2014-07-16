@@ -5,13 +5,15 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 # Permalinks
-permalink:        pretty
+# permalink:        This is set in each blog post
+
+paginate:         1
+#paginate_path:    permalink
 
 # Setup
 title:            Miss-Managr
 tagline:          redefining productivity
 url:              http://miss-managr.com
-paginate:         1
 baseurl:          /
 author:
   name:           Gertie Belcher

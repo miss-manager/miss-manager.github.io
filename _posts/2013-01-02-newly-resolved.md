@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Newly Resolved? 
+permalink: newly-resolved
 ---
 
 *Dear Gertrude,*

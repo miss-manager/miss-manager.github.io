@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Christmas Social
+permalink: christmas-social
 ---
 
 The christmas social is an event that nobody wants to attend but cannot be avoided, much like one’s own funeral.

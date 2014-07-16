@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Time Management
+permalink: time-management
 ---
 
 We all know there are only 24 hours in the day (couldn’t the ancient Egyptians get anything right?) so putting them to least effect is crucial.  Write down all the things you need to do in a list and then sort them into:

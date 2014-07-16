@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Plagiarism - one of my better ideas
+permalink: plagiarism
 ---
 
 Theodopolis Lalanka writes:

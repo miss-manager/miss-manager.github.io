@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The One-Eighty
+permalink: one-eighty
 ---
 
 For many, the *One-Eighty* (180) is considered the trump card in the hand of an underperforming middle manager.
