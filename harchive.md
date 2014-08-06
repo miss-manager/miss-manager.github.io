@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+description: An archive of the wisdom of Gertrude Belcher.
 ---
 
 {% for post in site.posts %}

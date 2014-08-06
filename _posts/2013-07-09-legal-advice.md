@@ -2,6 +2,7 @@
 layout: post
 title: Legal Advice?
 permalink: legal-advice
+description:  Jealousy in the legal profession? Gertrude offers her unique perspective.
 ---
 
 *Dear Gertrude,*

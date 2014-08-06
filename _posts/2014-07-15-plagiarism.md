@@ -2,6 +2,7 @@
 layout: post
 title: Plagiarism - one of my better ideas
 permalink: plagiarism
+description: Gertrude Belcher addresses the benefits of plagiarism in the workplace.
 ---
 
 Theodopolis Lalanka writes:

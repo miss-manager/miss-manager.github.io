@@ -2,6 +2,7 @@
 layout: post
 title: Arbitrary reallocation of workstations
 permalink: reallocation-of-workstations
+description: Gertrude Belcher reviews a specialist technique for disorientating staff - the arbitrary reallocation of workstations.
 ---
 
 Never underestimate the sense of well being and security that a workstation that is well lit, clean and central to the team area can convey to the highly motivated and empathetic team player.  The arbitrary reallocation of workstations (with minimal notice) can therefore be highly effective in disorientating staff.  To be most effective, the technique should only be applied to one or two individuals at any one time, thereby stimulating a number of anxiety generating thought patterns:

@@ -2,6 +2,7 @@
 layout: post
 title: Recently Despised?
 permalink: recently-despised
+description: Gertrude offers some advice for dealing with jealousy in the workplace.
 ---
 
 

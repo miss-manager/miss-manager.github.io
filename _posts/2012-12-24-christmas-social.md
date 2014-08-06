@@ -2,6 +2,7 @@
 layout: post
 title: The Christmas Social
 permalink: christmas-social
+description: The Christmas Social can be a dangerous event on the office calendar.  Gertrude Belcher offers some safey tips.
 ---
 
 The christmas social is an event that nobody wants to attend but cannot be avoided, much like one’s own funeral.

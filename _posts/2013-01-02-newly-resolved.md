@@ -2,6 +2,7 @@
 layout: post
 title: Newly Resolved? 
 permalink: newly-resolved
+description:  Gertrude addresses the issue of New Year's resolutions in the workplace.
 ---
 
 *Dear Gertrude,*

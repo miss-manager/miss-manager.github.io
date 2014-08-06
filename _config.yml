@@ -22,7 +22,8 @@ author:
 
 #
 pages_list:       
-  Archive: '/archive'
+  archive: '/archive.html'
+  feed:    '/atom.xml'
 
 # Custom vars
 version:          1.0.0
